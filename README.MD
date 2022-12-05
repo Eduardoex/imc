@@ -5,6 +5,8 @@
 
 Projeto construido na Trilha explorer.
 
+Veja o resultado em https://eduardoex.github.io/imc/
+
 ##  Tecnologias
 
 - JavaScript
